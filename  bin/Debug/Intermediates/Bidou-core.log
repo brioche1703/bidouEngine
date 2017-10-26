@@ -1,2 +1,8 @@
-﻿  Bidou-core.vcxproj -> C:\Users\kevin\Documents\Programmation\bidouEngine\ bin\Debug\Bidou-core.exe
+﻿  buffer.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  main.cpp
+c:\users\kevin\documents\programmation\bidouengine\bidou-core\src\maths\maths_func.h(9): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+  Bidou-core.vcxproj -> C:\Users\kevin\Documents\Programmation\bidouEngine\ bin\Debug\Bidou-core.exe
   Bidou-core.vcxproj -> C:\Users\kevin\Documents\Programmation\bidouEngine\ bin\Debug\Bidou-core.pdb (Partial PDB)
