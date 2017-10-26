@@ -4,6 +4,7 @@
 #include <GL/glew.h>
 #include <GLFW\glfw3.h>
 
+
 namespace bidou { namespace graphics {
 	
 #define MAX_KEYS 1024
