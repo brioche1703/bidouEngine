@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿  buffer.cpp
   Génération de code en cours...
   Compilation en cours...
@@ -6,3 +7,7 @@ c:\users\kevin\documents\programmation\bidouengine\bidou-core\src\maths\maths_fu
   Génération de code en cours...
   Bidou-core.vcxproj -> C:\Users\kevin\Documents\Programmation\bidouEngine\ bin\Debug\Bidou-core.exe
   Bidou-core.vcxproj -> C:\Users\kevin\Documents\Programmation\bidouEngine\ bin\Debug\Bidou-core.pdb (Partial PDB)
+=======
+﻿  window.cpp
+  Bidou-core.vcxproj -> C:\Users\kevin\Documents\Programmation\bidouEngine\ bin\Debug\Bidou-core.exe
+>>>>>>> d889464... Add Buffers and VertexArray
