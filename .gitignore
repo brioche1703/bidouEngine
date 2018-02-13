@@ -31,8 +31,5 @@ moc_*.o
 # Visual Studio files
 *.idk
 *.pdb
-*.log
 *.obj
 *.idb
-*.vcxproj
-*.filters
