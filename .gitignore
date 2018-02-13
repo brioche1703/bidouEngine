@@ -1,0 +1,38 @@
+# Makefile files
+
+Makefile
+Makefile.Debug
+Makefile.Release
+*/Makefile
+*/Makefile.Debug
+*/Makefile.Release
+
+# build folder
+build/*
+
+# User specific files
+*pro.user.*
+*pro.user
+
+# .exe files
+*.exe
+
+# .o files
+*.o
+
+# .swp files
+*.swp
+
+# moc files
+moc_*.h
+moc_*.cpp
+moc_*.o
+
+# Visual Studio files
+*.idk
+*.pdb
+*.log
+*.obj
+*.idb
+*.vcxproj
+*.filters
