@@ -40,7 +40,7 @@ namespace bidou { namespace maths {
 		return multiply(other);
 	}
 
-	mat4 mat4::orthographic(float left, float right, float top, float bottom, float near, float far) {
+	mat4 mat4::orthographic(float left, float right, float bottom, float top, float near, float far) {
 		mat4 result(1.0f);
 
 		result.elements[0 + 0 * 4] = 2.0f / (right - left);
