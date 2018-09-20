@@ -6,7 +6,7 @@
 namespace bidou { namespace maths {
 
 		inline float toRadians(float degrees) {
-			return degrees * (M_PI / 180);
+			return degrees * ((float)M_PI / 180);
 		}
 
 } }
