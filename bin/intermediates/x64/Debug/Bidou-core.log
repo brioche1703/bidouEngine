@@ -1,0 +1,105 @@
+﻿  main.cpp
+  buffer.cpp
+  indexbuffer.cpp
+  vertexarray.cpp
+  shader.cpp
+  window.cpp
+  mat4.cpp
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  
+  Searching libraries
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\opengl32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64\ucrtd.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\opengl32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\vcruntimed.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\opengl32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\opengl32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+buffer.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+indexbuffer.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+buffer.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+indexbuffer.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+buffer.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+indexbuffer.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+vertexarray.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+vertexarray.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+vertexarray.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+vertexarray.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+shader.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+shader.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+shader.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+shader.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+shader.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+shader.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+shader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+shader.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+shader.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+shader.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUniform1f
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUniform2f
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUniform3f
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUniform4f
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+shader.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+shader.obj : error LNK2001: unresolved external symbol __imp___glewValidateProgram
+window.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "public: __cdecl bidou::graphics::Window::Window(char const *,int,int)" (??0Window@graphics@bidou@@QEAA@PEBDHH@Z)
+window.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function "public: bool __cdecl bidou::graphics::Window::closed(void)const " (?closed@Window@graphics@bidou@@QEBA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function "public: void __cdecl bidou::graphics::Window::update(void)" (?update@Window@graphics@bidou@@QEAAXXZ)
+window.obj : error LNK2019: unresolved external symbol glfwSetWindowUserPointer referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwGetWindowUserPointer referenced in function "void __cdecl bidou::graphics::cursor_position_callback(struct GLFWwindow *,double,double)" (?cursor_position_callback@graphics@bidou@@YAXPEAUGLFWwindow@@NN@Z)
+window.obj : error LNK2019: unresolved external symbol glfwSetWindowSizeCallback referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function "public: void __cdecl bidou::graphics::Window::update(void)" (?update@Window@graphics@bidou@@QEAAXXZ)
+window.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "private: bool __cdecl bidou::graphics::Window::init(void)" (?init@Window@graphics@bidou@@AEAA_NXZ)
+window.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function "public: void __cdecl bidou::graphics::Window::update(void)" (?update@Window@graphics@bidou@@QEAAXXZ)
+C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\kevin\source\repos\bidouEngine\bin\x64\Debug\Bidou-core.exe : fatal error LNK1120: 41 unresolved externals

@@ -1,3 +1,0 @@
-﻿  main.cpp
-main.obj : error LNK2001: unresolved external symbol _glfwInit
-c:\users\kévin\documents\visual studio 2015\Projects\Bidou\Release\Bidou-core.exe : fatal error LNK1120: 1 unresolved externals
