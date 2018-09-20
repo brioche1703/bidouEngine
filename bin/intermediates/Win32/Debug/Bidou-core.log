@@ -1,2 +1,80 @@
 ﻿  main.cpp
+  buffer.cpp
+  indexbuffer.cpp
+  vertexarray.cpp
+  renderer2d.cpp
+  shader.cpp
+  window.cpp
+  mat4.cpp
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  
+  Searching libraries
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\opengl32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\User32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Shell32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86\ucrtd.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\opengl32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\User32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Shell32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\vcruntimed.lib:
+  
+  Finished searching libraries
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  
+  Searching libraries
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\opengl32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\User32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Shell32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLFW\lib-vc2015\glfw3.lib:
+      Searching C:\Users\kevin\source\repos\bidouEngine\Dependencies\GLEW\lib\glew32s.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\opengl32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\User32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\Shell32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+  
+  Finished searching libraries
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\kevin\source\repos\bidouEngine\bin\Win32\Debug\vc120.pdb'; linking object as if no debug info
   Bidou-core.vcxproj -> C:\Users\kevin\source\repos\bidouEngine\bin\Win32\Debug\Bidou-core.exe
